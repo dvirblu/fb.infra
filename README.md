@@ -1,0 +1,2 @@
+# fb.infra
+vagrant
